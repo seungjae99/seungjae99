@@ -23,8 +23,4 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>-->
 
-<!--<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=seungjae99&count_private=true&show_icons=true&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjae99&exclude_repo=TensorFlow_study,ML-book-scikitlearn&layout=compact&langs_count=8"/>
-<img src="https://github-profile-trophy.vercel.app/?username=seungjae99"/>
-</div>-->
 
