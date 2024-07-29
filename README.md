@@ -8,7 +8,7 @@
 
 <h3>Research Interests</h3>
 - Autonomous Driving<br>
-- Robotics<br>
+- SLAM<br>
 - Computer Vision<br>
 - Deep Learning, Machine Learning<br>
 
