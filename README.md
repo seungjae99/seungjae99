@@ -7,13 +7,13 @@
 </div>
 
 <h3>Research Interests</h3>
-- Autonomous Driving<br>
 - SLAM<br>
+- Autonomous Driving System<br>
 - Computer Vision<br>
 - Deep Learning, Machine Learning<br>
 
 
-<h3>Study</h3>
+<!--<h3>Study</h3>
 
 <b>Programming Languages</b>
 
